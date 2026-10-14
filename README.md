@@ -19,4 +19,4 @@
 | development branch | [branch](https://fullstack-brain-bucket-9te7.onrender.com) |
 | feature → dev | [PR #](https://github.com/stephenruelas155-coder/videogame/pull/7) |
 | dev → main | [PR #](https://github.com/stephenruelas155-coder/videogame/pull/13) |
-| PROD deployment | [GitHub Action](URL) |
+| PROD deployment | [GitHub Action](https://github.com/stephenruelas155-coder/videogame/blob/main/.github/workflows/npm-publish.yml) |
