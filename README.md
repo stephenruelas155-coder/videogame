@@ -6,12 +6,12 @@
 | requirement | evidence |
 |---|---|
 | MongoDB connection | [server code](https://github.com/stephenruelas155-coder/videogame/blob/main/server/mongo.js) |
-| GET all | [endpoint code](URL) |
-| GET one | [endpoint code](URL) |
-| filtered GET | [endpoint code](URL) |
-| POST / create | [endpoint code](URL) |
-| PATCH / update | [endpoint code](URL) |
-| DELETE | [endpoint code](URL) |
+| GET all | [endpoint code](https://github.com/stephenruelas155-coder/videogame/blob/main/server/mongo.js) |
+| GET one | [endpoint code](https://github.com/stephenruelas155-coder/videogame/blob/main/server/mongo.js) |
+| filtered GET | [endpoint code](https://github.com/stephenruelas155-coder/videogame/blob/main/server/mongo.js) |
+| POST / create | [endpoint code](https://github.com/stephenruelas155-coder/videogame/blob/main/server/mongo.js) |
+| PATCH / update | [endpoint code](https://github.com/stephenruelas155-coder/videogame/blob/main/server/mongo.js) |
+| DELETE | [endpoint code](https://github.com/stephenruelas155-coder/videogame/blob/main/server/mongo.js) |
 | frontend `fetch()` | [client code](URL) |
 | persistent CRUD | [PROD app](http://stephen.barrycumbie.com) |
 | HOTEL milestone | [milestone](URL) |
