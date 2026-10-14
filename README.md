@@ -5,7 +5,7 @@
 
  resource                     link
   ---------------------------- ----------------------
-  PROD codebase                [[`main`](URL)](https://github.com/stephenruelas155-coder/copy/tree/main)
+  PROD codebase                [[`main`](URL)](https://github.com/stephenruelas155-coder/videogame)
   PROD server                  [GCP](URL)(http://stephen.barrycumbie.com)
   DEV codebase                 [[`dev`](URL)](https://github.com/stephenruelas155-coder/videogame/dev)
   DEV server                   [[Render](URL)](https://fullstack-brain-bucket-9te7.onrender.com)
