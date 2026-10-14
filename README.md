@@ -6,12 +6,12 @@
 | requirement | evidence |
 |---|---|
 | MongoDB connection | [server code](https://github.com/stephenruelas155-coder/videogame/blob/main/server/mongo.js) |
-| GET all | [endpoint code](https://github.com/stephenruelas155-coder/videogame/blob/main/server/mongo.js) |
-| GET one | [endpoint code](https://github.com/stephenruelas155-coder/videogame/blob/main/server/mongo.js) |
-| filtered GET | [endpoint code](https://github.com/stephenruelas155-coder/videogame/blob/main/server/mongo.js) |
-| POST / create | [endpoint code](https://github.com/stephenruelas155-coder/videogame/blob/main/server/mongo.js) |
-| PATCH / update | [endpoint code](https://github.com/stephenruelas155-coder/videogame/blob/main/server/mongo.js) |
-| DELETE | [endpoint code](https://github.com/stephenruelas155-coder/videogame/blob/main/server/mongo.js) |
+| GET all | [endpoint code](https://github.com/stephenruelas155-coder/videogame/blob/main/server/mongo.js#L61) |
+| GET one | [endpoint code](https://github.com/stephenruelas155-coder/videogame/blob/main/server/mongo.js#L89) |
+| filtered GET | [endpoint code](https://github.com/stephenruelas155-coder/videogame/blob/main/server/mongo.js#L69) |
+| POST / create | [endpoint code](https://github.com/stephenruelas155-coder/videogame/blob/main/server/mongo.js#L106) |
+| PATCH / update | [endpoint code](https://github.com/stephenruelas155-coder/videogame/blob/main/server/mongo.js#L143) |
+| DELETE | [endpoint code](https://github.com/stephenruelas155-coder/videogame/blob/main/server/mongo.js#L153) |
 | frontend `fetch()` | [client code](https://github.com/stephenruelas155-coder/videogame/blob/main/public/hotel.html) |
 | persistent CRUD | [PROD app](http://stephen.barrycumbie.com) |
 | HOTEL milestone | [milestone](https://github.com/stephenruelas155-coder/videogame/milestone/1) |
