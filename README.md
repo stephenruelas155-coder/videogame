@@ -12,7 +12,7 @@
 | POST / create | [endpoint code](https://github.com/stephenruelas155-coder/videogame/blob/main/server/mongo.js) |
 | PATCH / update | [endpoint code](https://github.com/stephenruelas155-coder/videogame/blob/main/server/mongo.js) |
 | DELETE | [endpoint code](https://github.com/stephenruelas155-coder/videogame/blob/main/server/mongo.js) |
-| frontend `fetch()` | [client code](URL) |
+| frontend `fetch()` | [client code](https://github.com/stephenruelas155-coder/videogame/blob/main/public/hotel.html) |
 | persistent CRUD | [PROD app](http://stephen.barrycumbie.com) |
 | HOTEL milestone | [milestone](URL) |
 | example issue | [issue #](URL) |
