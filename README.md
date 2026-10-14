@@ -13,7 +13,7 @@
 | PATCH / update | [endpoint code](https://github.com/stephenruelas155-coder/videogame/blob/main/server/mongo.js#L143) |
 | DELETE | [endpoint code](https://github.com/stephenruelas155-coder/videogame/blob/main/server/mongo.js#L153) |
 | frontend `fetch()` | [client code](https://github.com/stephenruelas155-coder/videogame/blob/main/public/hotel.html) |
-| persistent CRUD | [PROD app](http://stephen.barrycumbie.com) |
+| persistent CRUD | [PROD app](https://stephen.barrycumbie.com) |
 | HOTEL milestone | [milestone](https://github.com/stephenruelas155-coder/videogame/milestone/1) |
 | example issue | [issue #](https://github.com/stephenruelas155-coder/videogame/issues/6) |
 | development branch | [branch](https://fullstack-brain-bucket-9te7.onrender.com) |
