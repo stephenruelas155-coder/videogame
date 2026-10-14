@@ -3,14 +3,20 @@
 
 '@stephenruellas155-coder' | '2026-10-13' | 'HOTEL'
 
- resource                     link
-  ---------------------------- ----------------------
-  PROD codebase                [[`main`](URL)](https://github.com/stephenruelas155-coder/videogame)
-  PROD server                  [GCP](URL)(http://stephen.barrycumbie.com)
-  DEV codebase                 [[`dev`](URL)](https://github.com/stephenruelas155-coder/videogame/dev)
-  DEV server                   [[Render](URL)](https://fullstack-brain-bucket-9te7.onrender.com)
-  docs                         [[`docs/`](URL)](https://github.com/stephenruelas155-coder/videogame/main/docs)
-  published docs               [[GitHub Pages](URL)](https://github.com/stephenruelas155-coder/videogame/main/public/pages)
-  CI/CD workflow               [[`deploy.yml`](URL)](https://github.com/stephenruelas155-coder/copy/blob/main/.github/workflows/deploy-main-to-gcp.yml)
-  successful PROD deployment   [[GitHub Action](URL)](https://github.com/stephenruelas155-coder/copy/actions)
-  resolved GOLF issue          [[issue \#](URL)](https://github.com/stephenruelas155-coder/copy/issues)
+| requirement | evidence |
+|---|---|
+| MongoDB connection | [server code]() |
+| GET all | [endpoint code](URL) |
+| GET one | [endpoint code](URL) |
+| filtered GET | [endpoint code](URL) |
+| POST / create | [endpoint code](URL) |
+| PATCH / update | [endpoint code](URL) |
+| DELETE | [endpoint code](URL) |
+| frontend `fetch()` | [client code](URL) |
+| persistent CRUD | [PROD app](URL) |
+| HOTEL milestone | [milestone](URL) |
+| example issue | [issue #](URL) |
+| development branch | [branch](URL) |
+| feature → dev | [PR #](URL) |
+| dev → main | [PR #](URL) |
+| PROD deployment | [GitHub Action](URL) |
